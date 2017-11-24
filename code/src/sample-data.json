@@ -1,0 +1,117 @@
+{
+  "companyInfo": {
+    "companyName": "Jacobi, Windler and Kohler",
+    "companyMotto": "mission-critical evolve web-readiness",
+    "companyEst": "2003-11-21T11:21:58.483Z"
+  },
+  "employees": [
+    {
+      "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/a_brixen/128.jpg",
+      "firstName": "Elizabeth",
+      "lastName": "Hills",
+      "jobTitle": "Product Operations Orchestrator",
+      "age": 32,
+      "bio": "Culpa totam voluptatem. Modi dolore nam accusantium natus ab consequuntur vero ducimus deserunt. Voluptates est autem id esse. Quia qui aut sed aliquam molestiae ipsam occaecati. Id minus dignissimos. Atque et rerum perspiciatis quas non officiis eius est.",
+      "dateJoined": "2017-10-03T00:03:54.296Z"
+    },
+    {
+      "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/dhooyenga/128.jpg",
+      "firstName": "Addison",
+      "lastName": "Langworth",
+      "jobTitle": "Principal Quality Specialist",
+      "age": 18,
+      "bio": "Culpa et occaecati neque asperiores esse. Beatae id iusto ut esse et porro earum. Esse facere molestiae ut.",
+      "dateJoined": "2016-11-27T11:35:01.334Z"
+    },
+    {
+      "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/moynihan/128.jpg",
+      "firstName": "Ashton",
+      "lastName": "Kulas",
+      "jobTitle": "Product Quality Engineer",
+      "age": 31,
+      "bio": "Architecto quis laborum nemo quis numquam repellendus ut. Est omnis eum reprehenderit occaecati consequuntur. Consequatur eligendi accusantium voluptatem vero explicabo. Quo consequatur soluta consectetur nihil nostrum.",
+      "dateJoined": "2016-07-05T17:57:06.573Z"
+    },
+    {
+      "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/sreejithexp/128.jpg",
+      "firstName": "Jesse",
+      "lastName": "Taylor",
+      "jobTitle": "Human Integration Director",
+      "age": 59,
+      "bio": "Et rem ea ipsum quos. Rerum nemo qui delectus dolores perspiciatis nostrum perspiciatis. Repellendus ab odio neque similique iusto et impedit. Non et culpa velit nisi quae qui aliquid aut et. Sint voluptas sit dolores aliquid ut enim non. Numquam eveniet et minima et excepturi quod alias consequatur.",
+      "dateJoined": "2016-12-24T14:16:12.965Z"
+    },
+    {
+      "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/myastro/128.jpg",
+      "firstName": "Ashton",
+      "lastName": "Parker",
+      "jobTitle": "Future Quality Technician",
+      "age": 26,
+      "bio": "Corrupti eligendi est praesentium voluptas. Corrupti culpa vel dolores illo est voluptatem error. Soluta quas quibusdam quibusdam. Aliquid est corrupti consequatur fugit eos ea labore nostrum iste. Ut quos quia laboriosam eum numquam earum voluptatibus quia dignissimos.",
+      "dateJoined": "2016-01-20T11:27:32.827Z"
+    },
+    {
+      "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/karthipanraj/128.jpg",
+      "firstName": "Levi",
+      "lastName": "Kiehn",
+      "jobTitle": "Global Paradigm Agent",
+      "age": 22,
+      "bio": "Amet consequatur aut enim ipsam. Maiores accusantium non molestias aut ea molestiae et. Ratione a dolorem sit rerum et deleniti nihil esse. Reprehenderit quibusdam eos et porro quasi.",
+      "dateJoined": "2011-03-16T03:03:09.762Z"
+    },
+    {
+      "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/vladyn/128.jpg",
+      "firstName": "Samantha",
+      "lastName": "Thomas",
+      "jobTitle": "District Configuration Manager",
+      "age": 26,
+      "bio": "Quia earum animi asperiores. Quo velit fuga quia ipsum ut. Et officia beatae modi sunt animi. Aut officiis debitis saepe non quia nemo necessitatibus. A magni nisi ea temporibus. Odio porro reiciendis ab accusamus sed beatae natus.",
+      "dateJoined": "2017-09-07T10:44:56.047Z"
+    },
+    {
+      "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/brandonmorreale/128.jpg",
+      "firstName": "Zara",
+      "lastName": "Rohan",
+      "jobTitle": "Central Branding Specialist",
+      "age": 30,
+      "bio": "Doloribus odio blanditiis architecto tempore expedita qui et corrupti atque. Fugit corrupti qui est quam perspiciatis. Debitis reprehenderit sit nisi ut facilis inventore. Aliquam vel deleniti dolores enim recusandae saepe sed et et. Occaecati dolore minus. Dolores omnis unde quis laborum ut tenetur dicta.",
+      "dateJoined": "2016-11-18T20:02:47.580Z"
+    },
+    {
+      "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/tonymillion/128.jpg",
+      "firstName": "Mason",
+      "lastName": "Walker",
+      "jobTitle": "Human Applications Manager",
+      "age": 38,
+      "bio": "Sed impedit rerum est dolorum et ut. Ut minus laudantium dolor repellat qui. Alias sit eius laudantium. Maiores qui voluptas assumenda perferendis ex.",
+      "dateJoined": "2008-06-17T09:03:19.264Z"
+    },
+    {
+      "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/ovall/128.jpg",
+      "firstName": "Amy",
+      "lastName": "Murphy",
+      "jobTitle": "Product Program Analyst",
+      "age": 65,
+      "bio": "Sint doloremque velit quod consequuntur voluptas. Ea ut quas consequatur aut doloribus laudantium explicabo eum. Dolor exercitationem nesciunt vero quae iure corrupti.",
+      "dateJoined": "2012-04-15T08:53:02.508Z"
+    },
+    {
+      "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/angelcolberg/128.jpg",
+      "firstName": "Logan",
+      "lastName": "Hayes",
+      "jobTitle": "District Communications Orchestrator",
+      "age": 36,
+      "bio": "Dolorem ducimus a error autem veritatis veniam perferendis molestiae. Sed dolor tenetur deleniti impedit. Voluptatem veritatis voluptatem aspernatur error quo voluptate cupiditate omnis velit. Commodi facilis qui. Qui at unde.",
+      "dateJoined": "2012-08-04T01:03:56.752Z"
+    },
+    {
+      "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/amanruzaini/128.jpg",
+      "firstName": "Thomas",
+      "lastName": "Davis",
+      "jobTitle": "Human Quality Coordinator",
+      "age": 38,
+      "bio": "Alias nisi et voluptatum ut corporis. Itaque amet quo expedita. Nam esse error itaque officiis non ut distinctio dolorem. Deleniti qui at et qui provident nesciunt officia rem cupiditate. Iste veritatis omnis qui hic repudiandae saepe et.",
+      "dateJoined": "2013-12-08T18:16:23.788Z"
+    }
+  ]
+}
